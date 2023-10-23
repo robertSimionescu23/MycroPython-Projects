@@ -17,8 +17,8 @@ wlan.active(True)
 
 
 # Fill in your network name (ssid) and password here:
-ssid = 'CaminLeuC'
-password = 'MariaNicoleta24'
+ssid = ''
+password = ''
 
 wlan.connect(ssid, password)
 
